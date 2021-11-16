@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0b0ef8ef-5794-1e04-e912-e939df5bf856"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Geodynamics",
+  "course_description": "This course deals with mechanics of deformation of the crust and mantle, with emphasis on the importance of different rheological descriptions: brittle, elastic, linear and nonlinear fluids, and viscoelastic.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.520",
+  "learning_resource_types": [
+    "Simulation Videos",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
